@@ -1,0 +1,20 @@
+@font-face {
+    src: url("B Yekan.ttf");
+    font-family: b-yekan;
+}
+
+@font-face {
+    src: url("B Tehran.ttf");
+    font-family: b-tehran;
+}
+
+
+@font-face {
+    src: url("IRANSans/IRANSansWeb.woff") , url("IRANSans/IRANSansWeb.woff2") , url("IRANSans/IRANSansWeb.ttf");
+    font-family: iran-sans-light;
+}
+
+@font-face {
+    src: url("IRANSans/IRANSansWebMedium.woff") , url("IRANSans/IRANSansWebMedium.woff2") ;
+    font-family: iran-sans-medium;
+}
